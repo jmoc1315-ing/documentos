@@ -1,0 +1,105 @@
+
+
+Good morning. Thank you for taking the time to join us today
+Could you start by introducing yourself and telling us a bit about your background as a systems engineer?
+************************************************************************************************
+Buenos días. Gracias por tomarse el tiempo para acompañarnos hoy. 
+¿Podría comenzar presentándose y contándonos un poco sobre su formación como ingeniero de sistemas?
+
+
+Presetntacion PROGRAMADOR FULLSTACK 
+*********************************************************************
+I am 35 years old and I am from Peru. I have a degree in Systems Engineering from the 
+National University José Faustino Sánchez Carrión and over 9 years of experience in IT, 
+including 3 years as a Quality Analyst and experience as a Software Engineer.
+In my career, I have worked with Scrum teams and used tools like Jira, Azure DevOps, and Mantis Bug Tracker.
+I have experience in software development and automation, working with:
+Java, .NET, and PHP for backend development
+Angular and Bootstrap for frontend projects
+Azure, AWS, and GCP for cloud solutions
+Selenium with Serenity and Screenplay for test automation
+Postman and RestAssured for API testing
+
+I enjoy working in a team to ensure the project targets are successfully hit
+
+I have developed applications, optimized databases, and automated processes for companies in the banking and telecommunications sectors.
+I am always looking for new challenges, and I am excited about this opportunity to contribute to your team.
+
+
+Can you walk me through your experience with Angular?
+******************************************************
+¿Puedes contarme sobre tu experiencia con Angular?
+
+
+Sure! I have experience developing applications using Angular to create dynamic and responsive user interfaces. 
+I have worked with components, services, modules, and RxJS for handling asynchronous data. 
+I also use Angular Material and Bootstrap to enhance UI design.
+In my projects, I follow best practices like lazy loading, state management with NgRx, and reusable components. 
+I am comfortable with TypeScript, dependency injection, and consuming REST APIs using HttpClient.
+Additionally, I have optimized performance using OnPush change detection, caching strategies, and preloading modules.
+
+Example: In a past project, I built a dashboard for financial reports where we needed real-time data. 
+I used WebSockets with RxJS and optimized the UI for better performance.
+******************************************************************************************************************************************************************************
+Utilizo NgRx para manejar el estado en aplicaciones grandes donde varios componentes necesitan acceder a datos compartidos. 
+NgRx sigue el patrón Redux, proporcionando una única fuente de verdad.
+Para aplicaciones más pequeñas, prefiero usar BehaviorSubject y servicios para compartir datos de forma reactiva sin agregar complejidad innecesaria.
+
+Ejemplo: En un proyecto donde los usuarios debían cambiar entre diferentes dashboards, 
+utilicé NgRx Store para manejar el estado de la UI, asegurando una navegación fluida y optimizando el rendimiento.
+
+
+how did you hear about us?
+************************************************************************************************
+¿Cómo te enteraste de nosotros?
+
+
+I heard about your company through LinkedIn. I was impressed by your global presence in Latin America and the extensive expertise you have across the region. 
+I also noticed that you are continuously growing,  which excites me as it shows the potential for professional development and transformation."
+ ************************************************************************************************
+Escuché sobre su empresa a través de LinkedIn. Me impresionó su presencia global en América Latina y la amplia experiencia que tienen en la región. 
+También noté que están en constante crecimiento, lo cual me entusiasma, ya que demuestra el potencial de desarrollo profesional y transformación.
+ 
+
+COMPROMISOS
+
+Estamos contactando a ingenieros de software con experiencia para que se unan a nuestro equipo de desarrollo
+*************************************************************************************************************
+We are reaching out to experienced software engineers to join our development team.
+
+
+Necesitamos cruzar el río antes de que oscurezca
+****************************************************
+We need to get across the river before it gets dark
+
+
+How do you plan to get across the city during rush hour?
+*******************************************************
+¿Cómo planeas cruzar la ciudad en hora punta?
+
+
+Para progresar en tu carrera, necesitas seguir aprendiendo y adaptándote a nuevas tecnologías
+**********************************************************************************************
+To get ahead in your carrer, you need to keep learning and adapting to new technologies.
+
+
+Do not hesitate to reach out // don't hesitate to reach out // feel free to reach out
+**********************************************************************************************
+No dudes en contactarnos
+ 
+
+Hi good afternoon, This coming Wednesday I will have an interview with Zeil IT consultants, I really need the job and, I hope you are very doing well 
+**********************************************************************************************
+Hola buenas tardes este miercoles que viene voy a dar una entrevista para la consultora Zeil IT, realmente necesito el trabajo y espero te este yendo muy bien
+ 
+
+Do you have any experiencie working in the .net?
+************************************************************************************************
+¿Tienes alguna experiencia trabajando en .net? 
+
+
+Do you have any experiencie working in the Azure?
+************************************************************************************************
+¿Tiene alguna experiencia trabajando en Azure?
+
+
