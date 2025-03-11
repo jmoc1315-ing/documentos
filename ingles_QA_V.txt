@@ -1,0 +1,444 @@
+
+*******Presetntacion QA ********
+
+Buenos días. Gracias por tomarse el tiempo para acompañarnos hoy. 
+¿Podría comenzar presentándose y contándonos un poco sobre su formación como ingeniero/ingeniero de sistemas?
+*******************************************************************************************************************
+Good morning. Thank you for taking the time to join us today
+Could you start by introducing yourself and telling us a bit about your background as a engineer/systems engineer?
+
+
+Mi nombre es Josue Max Ortiz Córdova, tengo 35 años y soy de Perú. 
+Estudié Ingeniería de Sistemas en la Universidad Nacional José Faustino Sánchez Carrión.
+Tengo más de 9 años de experiencia en el área de TI, incluyendo 3 años como Analista de Calidad. 
+En este rol, desarrollé planes de prueba, analicé, diseñé y ejecuté casos de prueba, generalmente en documentos de Excel siguiendo el formato del cliente.
+Mi proceso de pruebas siguió los estándares ISTQB, y trabajé principalmente con equipos ágiles utilizando la metodología Scrum. 
+Además, tengo experiencia en la gestión de proyectos con herramientas como Jira, Azure DevOps y Mantis Bug Tracker.
+Para la automatización de pruebas, he utilizado Selenium con Serenity y el patrón de diseño Screenplay.
+Disfruto trabajar en equipo para asegurar que los objetivos del proyecto se cumplan con éxito.
+*********************************************************************
+Good morning. It’s a pleasure to be here.
+My name is Josue Max Ortiz Córdova, and I am 35 years old. 
+I am from Peru, and I studied Systems Engineering at the National University José Faustino Sánchez Carrión.
+I have over 9 years of experience in the IT field, including 3 years as a Quality Analyst. 
+In this role, I developed test plans, analyzed, designed, and executed test cases, usually in Excel documents following the client’s format.
+My testing process followed ISTQB standards, and I typically worked with agile teams using Scrum methodology. 
+Additionally, I have experience managing projects with tools like Jira, Azure DevOps, and Mantis Bug Tracker.
+For test automation, I have used Selenium with Serenity and the Screenplay design pattern.
+
+
+
+
+I enjoy working in a team to ensure project goals are successfully achieved.
+
+¿Que tipo de colaboacion fue requeridsa entre a el equipo QA y otros equipos durante un projecto grande?
+**********************************************************************************************************
+What kind of collaboration was required between the QA team and other teams during a large project?
+
+
+¿Cuál fue el defecto más desafiante que encontraste y cómo lo depuraste?
+**********************************************************************************************************
+What was the most challenging defect you found, and How did you debug it?
+
+
+Me encontré con un defecto donde una página web se bloqueaba de forma intermitente durante los picos de uso. 
+Fue un desafío porque el problema no se podía reproducir consistentemente. 
+Usé herramientas de desarrollo del navegador y analizadores de registros para monitorear el uso de memoria  y la actividad de red. 
+Después de varias sesiones, 
+identifiqué una fuga de memoria causada por una conexión de base de datos no cerrada en el backend. 
+Colaboré con los desarrolladores para implementar una solución y agregamos monitoreo para prevenir 
+futuras ocurrencias.
+**********************************************************************************************************
+I encontered a defect where a web page would crash intermittently peak usage.
+It was a challenging because the issue was not can consistently reproducible.
+I used browser developer tools and log analyzers for monitoring memory leak usage and network activity
+After several session
+I identify a memory leak caused by an unclosed connection database in the backend
+I collaborate with developers to implement a fix and We added monitoring to prevent future ocurrence.
+
+
+¿Puedes describir las principales responsabilidades que tuviste como QA en tu rol anterior?
+************************************************************************************************
+Can you describe the main responsibilities you had as a QA in your previous role?
+
+En mi rol anterior como QA, mis responsabilidades principales incluían diseñar y ejecutar casos de prueba, realizar pruebas funcionales, 
+de regresión y de usabilidad, y asegurar que cada característica del software cumpliera con los estándares de calidad antes de su lanzamiento.
+ También trabajé de cerca con los desarrolladores para identificar y corregir errores durante el ciclo de desarrollo 
+ y colaboré con el equipo de producto para entender los requisitos del usuario.)
+************************************************************************************************
+In my previous role as a QA, my primary responsibilities included designing and executing test cases, performing functional, regression, 
+and usability testing, and ensuring that each software feature met the quality standards before release. 
+I also worked closely with developers to identify and fix bugs during the development cycle and collaborated with the product team to understand user requirements.
+
+
+¿Cómo priorizas los casos de prueba cuando tienes tiempo limitado?
+*******************************************************************
+How do you prioritize the test cases when you have limited time?
+
+
+Cuando el tiempo es limitado, 
+priorizo los casos de prueba basándome en el impacto y el riesgo asociado con cada característica. 
+Comienzo con la funcionalidad crítica y las áreas de alto riesgo que podrían afectar las operaciones principales. 
+También hablo con el equipo de producto para entender qué características son más importantes para nuestros usuarios, 
+de modo que pueda enfocarme en ellas primero. Este enfoque ayuda a asegurar que las partes esenciales de la aplicación se prueben, 
+incluso si el tiempo es limitado.
+************************************************************************************************************************************
+When time is limited,
+I prioritize test cases based on the impact and risk associate with each feature.
+I start with the critical functionality and high-risk areas that could affect the core operations.
+I also discuss with the product team to understand which features are most important to our users.
+so I can focus on those first, This approach helps ensure that essential parts of the aplication are tested,
+even if the time is limited
+
+
+how did you hear about us?
+************************************************************************************************
+¿Cómo te enteraste de nosotros?
+
+
+I heard about your company through LinkedIn. 
+I was impressed by your global presence in Latin America and the extensive expertise you have across the region. 
+I also noticed that you are continuously growing,  
+which excites me as it shows the potential for professional development and transformation.
+************************************************************************************************
+Escuché sobre su empresa a través de LinkedIn. 
+Me impresionó su presencia global en América Latina y la amplia experiencia que tienen en la región. 
+También noté que están en constante crecimiento, 
+lo cual me entusiasma, ya que demuestra el potencial de desarrollo profesional y transformación.
+ 
+
+¿Alguna vez tuviste que "pensar fuera de la caja" para resolver un problema de QA?
+************************************************************************************************
+Have you ever had to "think outside the box" to solve a QA problem?
+
+Sí, en un proyecto, los sistemas heredados carecían de documentación, lo que dificultaba las pruebas de integración.
+"Pensé fuera de la caja" al hacer ingeniería inversa de las respuestas de API y crear servicios simulados para imitar interacciones.
+Esto permitió continuar con las pruebas sin esperar la integración completa, acelerando la entrega.
+************************************************************************************************
+Yes, in one project, legacy systems lacked documentation, making integration testing difficult. 
+I "thought outside the box" by reverse-engineering API responses and creating mock services to simulate interactions. 
+This allowed testing to proceed without waiting for full integration, accelerating delivery.
+
+
+ 
+¿Cómo pruebas una funcionalidad que no tiene requisitos claros o documentación?
+********************************************************************************
+How do you test a feature that lacks clear requiremente or documentation?
+
+En estos casos, primero me comunico con los interesados, como los dueños del producto o los desarrolladores, 
+para recopilar tanta información como sea posible sobre la funcionalidad. 
+Utilizo técnicas de pruebas exploratorias para comprender su comportamiento. 
+Identifico escenarios clave y casos límite según el propósito de la aplicación y las interacciones esperadas del usuario. 
+Documento mis hallazgos mientras realizo pruebas, creando un conjunto de requisitos informales que luego pueden formalizarse. 
+Esto ayuda a asegurar una cobertura adecuada, incluso sin documentación inicial.
+*****************************************************************************************************************************
+In such cases, I firts communicate wiht the stakeholders, such as product owner and developers, 
+to gather as much information as possible about the feature.
+I use exploratory testing techniques (smoke test) to understand its behavior. 
+I identify key scenarios the edge cases based purpose aplication's and expected user interactions.
+I document my findings as I test, I creating a set of informal requirements that can later be formalized.
+This helps ensure coverage, even without initial documentation
+
+
+
+
+Looking ahead, How do you see the role of QA evolving in the next 5 to 10 years, and How are you preparing for these changes
+************************************************************************************************
+Mirando al futuro, ¿cómo ves que evoluciona el rol de QA en los próximos 5 a 10 años, y cómo te estás preparando para estos cambios?
+
+ 
+I believe the role of QA will continue evolve, particularly with the increasing emphasis on automation, 
+artificial intelligence and machine learning in the testing proccess.
+In the future, I foresee QA Engineers becoming even more integral the development lifecycle, 
+************************************************************************************************
+Creo que el rol de QA continuará evolucionando, particularmente con el énfasis creciente en la automatización, 
+la inteligencia artificial y el aprendizaje automático en el 
+proceso de pruebas. En el futuro, preveo que los ingenieros de QA se volverán aún más integrales al ciclo de vida del desarrollo, no solo como testers, 
+sino como colaboradores clave en el proceso de aseguramiento de calidad desde el principio de un proyecto. 
+A medida que avanzamos hacia la entrega continua y las metodologías ágiles, la necesidad de pruebas más rápidas y eficientes será crucial.
+ 
+
+ 
+COMPROMISOS
+
+Me comprometo a garantizar la calidad del software y a colaborar eficazmente para cumplir los objetivos del proyecto.
+************************************************************************************************
+I am committed to ensuring software quality and collaborating effectively to meet project goals
+
+
+Estamos contactando a ingenieros de software con experiencia para que se unan a nuestro equipo de desarrollo
+*************************************************************************************************************
+We are reaching out to experienced software engineers to join our development team.
+
+
+Necesitamos cruzar el río antes de que oscurezca
+****************************************************
+We need to get across the river before it gets dark
+
+
+How do you plan to get across the city during rush hour?
+*******************************************************
+¿Cómo planeas cruzar la ciudad en hora punta?
+
+
+Para progresar en tu carrera, necesitas seguir aprendiendo y adaptándote a nuevas tecnologías
+**********************************************************************************************
+To get ahead in your carrer, you need to keep learning and adapting to new technologies.
+
+
+do not hesitate to reach out // don't hesitate to reach out // feel free to reach out
+**********************************************************************************************
+ No dudes en contactarnos
+ 
+ 
+ Hi good afternoon, This coming Wednesday I will have an interview with Zeil IT consultants, I really need the job and, I hope you are very doing well 
+ **********************************************************************************************
+ Hola buenas tardes este miercoles que viene voy a dar una entrevista para la consultora Zeil IT, realmente necesito el trabajo y espero te este yendo muy bien
+ 
+
+Cada vez que se ejecuta la compilacion
+**********************************
+Every time the build runs
+ 
+ COMPROMISOS
+
+Me comprometo a garantizar la calidad del software y a colaborar eficazmente para cumplir los objetivos del proyecto.
+************************************************************************************************
+I am committed to ensuring software quality and collaborating effectively to meet project goals
+
+
+Estamos contactando a ingenieros de software con experiencia para que se unan a nuestro equipo de desarrollo
+*************************************************************************************************************
+We are reaching out to experienced software engineers to join our development team.
+
+
+Necesitamos cruzar el río antes de que oscurezca
+****************************************************
+We need to get across the river before it gets dark
+
+
+How do you plan to get across the city during rush hour?
+*******************************************************
+¿Cómo planeas cruzar la ciudad en hora punta?
+
+
+Para progresar en tu carrera, necesitas seguir aprendiendo y adaptándote a nuevas tecnologías
+**********************************************************************************************
+To get ahead in your carrer, you need to keep learning and adapting to new technologies.
+
+
+do not hesitate to reach out // don't hesitate to reach out // feel free to reach out
+**********************************************************************************************
+ No dudes en contactarnos
+ 
+
+Mejorar tu portafolio aumentará tus posibilidades de ser descubierto por reclutadores
+*************************************************************************************
+Improving your portfolio will increase your chances of being discovered by recruiters. 
+
+
+Continuemos donde lo dejamos ayer
+*******************************************
+Let's continue where we left of yesterday
+
+New job positions are becoming open next month 
+**********************************************************
+Nuevas posiciones de trabajo están abriéndose el próximo mes
+
+Manejaron la crisis con gracia y juntos, sin pánico ni conflictos
+**********************************************************************
+They handled the crisis gracefully together, witout panic or conflict
+
+La idea principal de la automatización es reducir el esfuerzo humano, no aumentarlo
+************************************************************************************
+The whole idea of automation is to reduce the human effort, no increase it
+
+La idea principal de esta reunión es discutir el progreso del proyecto
+**********************************************************
+The Whole idea this meet to discuss the proyect's progress 
+
+La idea completa detrás de este software es hacer las cosas más fáciles para los usuarios
+**********************************************************
+The whole idea behind this software is make things easier for users
+
+¿Lo ves como algo que, a medida que te mudas a la nube, mejora tu proceso de modernización y te permite aprovechar las nuevas tecnologías?
+**********************************************************************************************************************
+Do you view it as something that, as you move to the cloud, enhances your modernization journey and allows you to take advantage of new technologies?
+
+Podrías decir que las películas de los 90 fueron icónicas
+**********************************************************
+You could say 90's movies were iconics
+
+¿Puedes dejar de hacer ese ruido?
+***********************************
+Can you leave off making that noise?
+
+
+
+¡Omitiste mi nombre de la lista!
+***********************************
+You left off my name from the list
+
+No omitas ningún detalle al escribir el informe
+************************************************
+Don't left off any details writting the report
+
+gran cantidad de dispositivos de IA
+****************************************
+slew of AI devices
+
+
+
+Sólo cuando la compilación es activado/gatillado/disparado manualmente.
+***********************************************************************
+Only When the build is triggered manually 
+
+
+Sólo cuando la compilación se activa mediante un registro de código.
+********************************************************************
+Only when the build is triggered through a code check-in
+
+ 
+No hay compilación a través de un registro de código.
+*****************************************************
+There is no compilation through a code check-in
+
+
+No lo sé todavía
+**********************
+I don't know yet
+
+
+Con el tiempo, sus intereses se desviaron de la ingeniería hacia los negocios
+*************************************************************************************
+Over the time his interests shifted away from engineering to business
+
+
+Este año es peor
+*****************
+it's worse this year
+
+
+Muchas empresas prefieren los ecosistemas cerrados para mantener a los usuarios dentro de su sistema
+****************************************************************************************************
+Many companies prefer walled garden to keep users inside their ecosystems
+
+
+La App Store de Apple es un ejemplo clásico de un ecosistema cerrado en la industria tecnológica
+****************************************************************************************************
+Apple's App store is an clasic example of a walled garden in the tech industry
+
+
+Debemos aprender a defendernos en situaciones peligrosas
+************************************************************
+We must learn to defend ourselves in dangerous situations.
+ 
+ 
+Estoy subiendo de nivel a mi personaje en el juego.
+***********************************************************
+I'm leveling up my character in the game
+
+
+Está mejorando su condición física yendo al gimnasio todos los días
+***********************************************************************
+He's leveling up his fitness by going to the gym everyday
+ 
+Él dejó de fumar el año pasado
+***********************************
+He left off smoking last year
+
+
+Hi good afternoon, This coming Wednesday I will have an interview with Zeil IT consultants, I really need the job and, I hope you are very doing well 
+**********************************************************************************************
+Hola buenas tardes este miercoles que viene voy a dar una entrevista para la consultora Zeil IT, realmente necesito el trabajo y espero te este yendo muy bien
+ 
+
+Lo que vamos a hablar.
+***********************************
+What we are going to talk about
+
+Lo que vamos a discutir
+***********************************
+What we are going to discuss
+ 
+El tema del que vamos a hablar
+***********************************
+The topic We are going to talk about
+ 
+ 
+
+La ruptura de la comunicación causó el fracaso del proyecto
+************************************************************
+The breakdown of communication caused the proyect to fail
+
+
+communicate with each other- comunican entre si
+fast-paced environment entorno
+we need to talk about
+key places - lugares clave
+overwhelm - abrumar
+overwhelmed - abrumada
+somebody overwhelmed - alguien abrumado
+
+theft - robo
+Shape - forma
+unless - a menos que
+than half a dozen - mas de media docena
+move forward - poder avanzar
+due - debido
+whether -if 
+and vowed to embrace it - y se comprometió a abrazarlo
+reversed 
+scam - estafa
+I would have
+Though.
+Although. 
+Thought. 
+Through -a traves de
+Throughout - a lo largo de
+standup
+indeed - en efecto
+predictive - 
+unforeseen - imprevisto
+cost escalation - aumento de costos
+unlawfully - ilegalmente
+clearing
+approve - aprobado
+leveraging
+
+how we do things
+
+plenty  - infinidad
+dismissal - despido
+is expected - Se esperaba
+how you approached it? - ¿Cómo lo abordaste?
+burnout - agotamiento 
+avoid - evitar
+submitting the report - entregar el reporte
+yield
+taking out time over it - tomarse el tiempo para ello
+pace and energy - ritmo y energ¡a
+making sure everyone concentrates - Asegurandose de que todos se concentren
+
+
+
+
+what will you be aiming to achieve day?
+¨Quw‚ te propondras lograr este d¡a?
+
+
+Concertar citas y entrevistas con el cliente.
+********************************************************************
+Setting up appointments with and interview client
+
+How to hold a daily stand-up meeting?
+********************************************************************
+No more than half a dozen or so people it's typically 15 minutes
+
+
+Saludos de entrevistador
+**********************************************************************************************************************
+Hi Josue, nice to meet you! How are you today?
+
+Good morning, Josue‚! Thank you for joining us today. 
+To start, could you tell us about the most challenging project you've worked on and how you approached it?
